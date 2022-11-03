@@ -1,14 +1,14 @@
 {
-    "name": "YoneRobot",
-    "description": "Telegram group management bot.",
+    "name": "𝕻𝖎𝖐𝖆𝖈𝖍𝖚 ⚡",
+    "description": "Powerful Telegram group management bot.",
     "keywords": [
        "telegram",
        "anime",
        "group",
        "manager",
-       "yone"
+       "Pikachu"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/RACHIT-KUSHWAHA/RACHIT69",
  "addons": [
     {
        "options": {
@@ -59,17 +59,17 @@
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "kumjojass"
+       "value": "II_RACHIT_II"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "league_of_bots"
+       "value": "YAAR_KAMEENE"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://telegra.ph/file/b749b0e80e82291e85e10.jpg"
+       "value": "https://telegra.ph/file/5a8a144df74916d0dac93.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
